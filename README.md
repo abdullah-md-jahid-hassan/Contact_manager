@@ -1,1 +1,1 @@
-# Contact_manager
+This is a simple contact manager poject
